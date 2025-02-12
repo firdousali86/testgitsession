@@ -1,9 +1,28 @@
+i am the main branch developper changing yet another line in main branch
+another main branch change
+
 this is some project i will be working on, we will VC it using git
 
 these are some changes
+
+i am now working on my feature a
+it is unstable so i wont commit it until the feature is fully baked
+i will continue working in stealth mode
 
 there is this new dev in the team who is working direclty on the main branch
 he is working working working
 not giving up
 more work 
 more work
+
+here my last line of code in feature a, and its done and tested
+
+this is yet another change in the main branch
+
+there was a reported bug in featuree a, and here comes the fix of it
+
+there was a reported bug in featuree a, and here comes the fix of it
+
+there was yet another bug reported in feature a and i am fixing it
+there was yet another bug reported in feature a and i am fixing it
+yet another bug fix
